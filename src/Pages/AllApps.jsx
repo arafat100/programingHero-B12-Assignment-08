@@ -9,7 +9,7 @@ const AllApps = () => {
   const [search, setSearch] = useState("");
   const [sortOrder, setSortOrder] = useState("default");
   const [loading, setLoading] = useState(true);
-  const [searching, setSearching] = useState(false); 
+  const [searching, setSearching] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -22,11 +22,11 @@ const AllApps = () => {
       .catch(() => setLoading(false));
   }, []);
 
- 
+
   const handleSearch = (e) => {
     setSearching(true);
     setSearch(e.target.value);
-    setTimeout(() => setSearching(false), 400); 
+    setTimeout(() => setSearching(false), 400);
   };
 
   const filteredApps = apps.filter((app) =>
@@ -50,11 +50,11 @@ const AllApps = () => {
     );
 
   return (
-    <div className="min-h-screen bg-white animate-fadeIn">
+    <div className="min-h-screen  bg-white animate-fadeIn">
       <div className="py-16 px-4">
         <section className="text-center space-y-3 mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800">
-            Our All Applications
+            Our All  Applications
           </h1>
           <p className="text-gray-600 max-w-3xl mx-auto text-lg">
             Explore All Applications on the Market developed by us We code for
@@ -62,14 +62,14 @@ const AllApps = () => {
           </p>
         </section>
 
-       
+
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 bg-white p-4 rounded-lg shadow-sm mb-8">
           <p className="font-semibold text-gray-700 text-lg">
             ({sortedApps.length}) Apps Found
           </p>
 
           <div className="flex flex-col sm:flex-row gap-3 items-center w-full md:w-auto">
-           
+
             <div className="relative flex-1 md:flex-none md:w-64">
               <FaSearch className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" />
               <input
@@ -93,14 +93,14 @@ const AllApps = () => {
           </div>
         </div>
 
-       
+
         {searching && (
           <div className="flex justify-center py-4">
             <span className="loading loading-spinner text-purple-600"></span>
           </div>
         )}
 
-   
+
         {sortedApps.length === 0 ? (
           <div className="text-center py-20 text-gray-500 text-lg font-medium">
             <img
