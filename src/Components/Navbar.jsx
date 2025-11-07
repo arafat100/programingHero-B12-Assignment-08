@@ -14,7 +14,7 @@ export default function Navbar() {
               alt=""
               className="w-10 h-10 rounded-full object-cover"
             />
-            HERO.IO
+            <Link to="/">HERO.IO</Link>
           </div>
         </div>
 
