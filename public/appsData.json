@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.postimg.cc/15RQVKn4/demo-app-1.webp",
+    "title": "Chatly",
+    "companyName": "TalkCorp",
+    "description": "A simple chat app to stay connected with friends.",
+    "size": 24,
+    "reviews": 1235,
+    "ratingAvg": 4.5,
+    "downloads": 120000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 70
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 525
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.postimg.cc/wjvgZkgn/demo-app-2.webp",
+    "title": "Workify",
+    "companyName": "TaskPro",
+    "description": "Manage your tasks efficiently and stay productive.",
+    "size": 30,
+    "reviews": 2850,
+    "ratingAvg": 4.3,
+    "downloads": 250000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 150
+      },
+      {
+        "name": "3 star",
+        "count": 300
+      },
+      {
+        "name": "4 star",
+        "count": 800
+      },
+      {
+        "name": "5 star",
+        "count": 1500
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.postimg.cc/k48nwXqn/demo-app-3.webp",
+    "title": "FitTrack",
+    "companyName": "HealthLab",
+    "description": "Track your fitness goals and monitor daily workouts.",
+    "size": 35,
+    "reviews": 5400,
+    "ratingAvg": 4.7,
+    "downloads": 900000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 250
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 1200
+      },
+      {
+        "name": "5 star",
+        "count": 3400
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.postimg.cc/15SzC68C/demo-app-4.webp",
+    "title": "TravelMate",
+    "companyName": "GoGlobe",
+    "description": "Plan and explore trips across the world with ease.",
+    "size": 42,
+    "reviews": 4500,
+    "ratingAvg": 4.4,
+    "downloads": 700000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 1900
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.postimg.cc/rwQztmwk/demo-app-5.webp",
+    "title": "NotePlus",
+    "companyName": "PaperMind",
+    "description": "Create and organize notes seamlessly with cloud sync.",
+    "size": 18,
+    "reviews": 2300,
+    "ratingAvg": 4.1,
+    "downloads": 400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 150
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 800
+      },
+      {
+        "name": "5 star",
+        "count": 850
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.postimg.cc/cJkKPJpC/demo-app-6.webp",
+    "title": "EduMate",
+    "companyName": "LearnX",
+    "description": "Interactive learning platform for students and teachers.",
+    "size": 50,
+    "reviews": 6200,
+    "ratingAvg": 4.8,
+    "downloads": 950000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 4000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.postimg.cc/MZNTyNwR/Food-Box.webp",
+    "title": "FoodBox",
+    "companyName": "FoodMart",
+    "description": "Order food from best restaurants.",
+    "size": 28,
+    "reviews": 3200,
+    "ratingAvg": 4.2,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 900
+      },
+      {
+        "name": "5 star",
+        "count": 1100
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.postimg.cc/zGWRb5R5/Newsly.png",
+    "title": "Newsly",
+    "companyName": "DailyHub",
+    "description": "Get breaking news, updates, and trending stories.",
+    "size": 25,
+    "reviews": 4000,
+    "ratingAvg": 4.0,
+    "downloads": 800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 400
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 1200
+      },
+      {
+        "name": "5 star",
+        "count": 1400
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.postimg.cc/76N3C4dq/Finance-Pro.webp",
+    "title": "FinancePro",
+    "companyName": "MoneyMind",
+    "description": "Track expenses and manage your monthly budget easily.",
+    "size": 40,
+    "reviews": 5200,
+    "ratingAvg": 4.6,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 2800
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.postimg.cc/tCGbRjy3/Photo-Snap.jpg",
+    "title": "PhotoSnap",
+    "companyName": "Picverse",
+    "description": "Capture, edit, and share your favorite moments.",
+    "size": 45,
+    "reviews": 8700,
+    "ratingAvg": 4.9,
+    "downloads": 1500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 2000
+      },
+      {
+        "name": "5 star",
+        "count": 5600
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.postimg.cc/q7kWhJZz/Book-Nest.png",
+    "title": "BookNest",
+    "companyName": "Readify",
+    "description": "Discover, read, and review books from all genres.",
+    "size": 32,
+    "reviews": 3100,
+    "ratingAvg": 4.3,
+    "downloads": 400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 900
+      },
+      {
+        "name": "5 star",
+        "count": 1450
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.postimg.cc/qMWk338s/Music-Flow.avif",
+    "title": "MusicFlow",
+    "companyName": "TuneHive",
+    "description": "Stream unlimited music and create playlists.",
+    "size": 38,
+    "reviews": 7600,
+    "ratingAvg": 4.6,
+    "downloads": 1300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 250
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 1800
+      },
+      {
+        "name": "5 star",
+        "count": 4750
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.postimg.cc/26x6dSzR/Medi-Care.webp",
+    "title": "MediCare",
+    "companyName": "HealthNet",
+    "description": "Book doctor appointments and track health reports.",
+    "size": 27,
+    "reviews": 2300,
+    "ratingAvg": 4.2,
+    "downloads": 600000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 800
+      },
+      {
+        "name": "5 star",
+        "count": 750
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.postimg.cc/5y3CtmHF/Ride-Now.jpg",
+    "title": "RideNow",
+    "companyName": "GoDrive",
+    "description": "Book rides instantly with real-time tracking.",
+    "size": 44,
+    "reviews": 9100,
+    "ratingAvg": 4.7,
+    "downloads": 2000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 400
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 2300
+      },
+      {
+        "name": "5 star",
+        "count": 5300
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.postimg.cc/7hy3h6mX/Game-On.jpg",
+    "title": "GameOn",
+    "companyName": "Playverse",
+    "description": "Discover and play trending mobile games.",
+    "size": 50,
+    "reviews": 10500,
+    "ratingAvg": 4.8,
+    "downloads": 2500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 250
+      },
+      {
+        "name": "2 star",
+        "count": 350
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 2300
+      },
+      {
+        "name": "5 star",
+        "count": 6900
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://i.postimg.cc/hvqjT7FN/Shop-Easy.jpg",
+    "title": "ShopEasy",
+    "companyName": "BuySmart",
+    "description": "Shop clothes, electronics, and more with fast delivery.",
+    "size": 48,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 1700000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 2400
+      },
+      {
+        "name": "5 star",
+        "count": 5300
+      }
+    ]
+  }
+]
