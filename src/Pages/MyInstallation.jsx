@@ -27,9 +27,9 @@ export default function MyInstallation() {
   const sortedApps = useMemo(() => {
     let sorted = [...installedApps];
     if (sortBy === "downloads-high") {
-      sorted.sort((a, b) => (b.downloads || 0) - (a.downloads || 0)); 
+      sorted.sort((a, b) => (b.downloads || 0) - (a.downloads || 0));
     } else if (sortBy === "downloads-low") {
-      sorted.sort((a, b) => (a.downloads || 0) - (b.downloads || 0)); 
+      sorted.sort((a, b) => (a.downloads || 0) - (b.downloads || 0));
     }
     return sorted;
   }, [installedApps, sortBy]);
@@ -93,7 +93,7 @@ export default function MyInstallation() {
                   </div>
                   <button
                     onClick={() => handleUninstall(a.id)}
-                    className="px-4 py-2 bg-green-500 text-white rounded text-sm font-semibold hover:bg-green-600 transition"
+                    className="px-4  py-2 bg-green-500 text-white rounded text-sm font-semibold hover:bg-green-600 transition"
                   >
                     Uninstall
                   </button>

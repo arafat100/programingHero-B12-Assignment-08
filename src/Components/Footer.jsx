@@ -45,7 +45,7 @@ export default function Footer() {
 
           <div className="text-center">
             <p className="text-gray-400 text-sm">
-              Copyright © 2025 - All right reserved
+              Copyright  © 2025 - All right reserved
             </p>
           </div>
         </div>
